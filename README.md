@@ -2,6 +2,7 @@
 # BOLD.Console RMS API for .Net
 
 BOLD.Console RMS API  provides you the abilities to send bulk SMS. 
+
 You can start sending bulk SMS by simply integrating the bulk SMS gateway and your application via HTTP / HTTPS connections with REST.
 
 
